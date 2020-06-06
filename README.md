@@ -5,33 +5,33 @@ Log of daily activities
 ### Added:
 ### Completed:
 ### Worked on:
-### Attended:
+### Attended:>
 
 # June 5th, 2020
 ### Carried Forward:
-Create template for README.md
-Review and Approve Visit Code
-Implement changes to PS_Usage and submit for review
+* Create template for README.md
+* Review and Approve Visit Code
+* Implement changes to PS_Usage and submit for review
 #### Personal:
-Contact Freedom Mortgage about loan processing (855-690-5900)
-Get Titles for Cars
-Calculate Blanaces (pay bills)
+* Contact Freedom Mortgage about loan processing (855-690-5900)
+* Get Titles for Cars
+* Calculate Blanaces (pay bills)
 ### Added:
-Learn about Parent Child Queues in Hadoop
-Create Repo for templates
+* Learn about Parent Child Queues in Hadoop
+* Create Repo for templates
 ### Worked on:
-README.md template
-List of schemas utlized
+* README.md template
+* List of schemas utlized
 ### Completed:
-Template Repo - first version
-List of schemas utlized
+* Template Repo - first version
+* List of schemas utlized
 ### Attended:
-Lovelace node strategy meeting 30 min
-DSU
-Lovelace weekly meeting
-Office hours - no business conducted
+* Lovelace node strategy meeting 30 min
+* DSU
+* Lovelace weekly meeting
+* Office hours - no business conducted
 ## Notes
-Meg was hit in the passenger side door while driving in the RAV4
+* Meg was hit in the passenger side door while driving in the RAV4
 
 # June 4th, 2020
 ### Completed
