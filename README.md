@@ -18,6 +18,8 @@ Log of daily activities
 * Push PS_USAGE to prod
 * Quarterly Report
 ### Completed:
+Migrated bankofAmerica.sh to prod
+Migrated ps_usage to prod
 ### Worked on:
 ### Attended:
 DSU
