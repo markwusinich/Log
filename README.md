@@ -7,13 +7,23 @@ Log of daily activities
 ### Worked on:
 ### Attended:
 
-# June 6th, 2020 Saturday
+# June 8th, 2020 Monday
 ### Carried Forward:
 * Learn about Parent Child Queues in Hadoop
 #### Personal:
 * Contact Freedom Mortgage about loan processing (855-690-5900)
 * Get Titles for Cars
 * Contact MLH about claims and could they be recoded as Dr Visits
+### Added:
+* Push PS_USAGE to prod
+* Quarterly Report
+### Completed:
+### Worked on:
+### Attended:
+DSU
+
+# June 6th, 2020 Saturday
+### Carried Forward:
 ### Added:
 ### Completed:
 ### Worked on:
