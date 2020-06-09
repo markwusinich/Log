@@ -9,17 +9,22 @@ Log of daily activities
 
 # June 9th, 2020 Tuesday
 ### Carried Forward:
-* Learn about Parent Child Queues in Hadoop
 #### Personal:
 * Contact Freedom Mortgage about loan processing (855-690-5900)
 * Get Titles for Cars
 * Contact MLH about claims and could they be recoded as Dr Visits
 ### Added:
+* US262283 Monthly Migration to AH from Nav by PSU and Control
 ### Completed:
+* Learn about Parent Child Queues in Hadoop
 * Monitor Visit and PS_USAGE in real time
+* US262283 Monthly Migration to AH from Nav by PSU and Control
+* QC Production run of PS_USAGE/Visit
 #### Personal:
-* Painted poarch
+* cut lawn; helped clean downstairs; 
 ### Worked on:
+* US262283 Monthly Migration to AH from Nav by PSU and Control
+* QC Production run of PS_USAGE/Visit
 ### Attended:
 
 # June 8th, 2020 Monday
