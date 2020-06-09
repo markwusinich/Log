@@ -7,6 +7,21 @@ Log of daily activities
 ### Worked on:
 ### Attended:
 
+# June 9th, 2020 Tuesday
+### Carried Forward:
+* Learn about Parent Child Queues in Hadoop
+#### Personal:
+* Contact Freedom Mortgage about loan processing (855-690-5900)
+* Get Titles for Cars
+* Contact MLH about claims and could they be recoded as Dr Visits
+### Added:
+### Completed:
+* Monitor Visit and PS_USAGE in real time
+#### Personal:
+* Painted poarch
+### Worked on:
+### Attended:
+
 # June 8th, 2020 Monday
 ### Carried Forward:
 * Learn about Parent Child Queues in Hadoop
@@ -15,11 +30,13 @@ Log of daily activities
 * Get Titles for Cars
 * Contact MLH about claims and could they be recoded as Dr Visits
 ### Added:
+* Enricehd_Ps_usage has bad data! Why?
 * Push PS_USAGE to prod
 * Quarterly Report
 ### Completed:
-Migrated bankofAmerica.sh to prod
-Migrated ps_usage to prod
+* PS_USAGE has bad data. Resolved.
+* Migrated bankofAmerica.sh to prod
+* Migrated ps_usage to prod
 ### Worked on:
 ### Attended:
 DSU
