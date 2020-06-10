@@ -18,6 +18,7 @@ Log of daily activities
 * Use Python Notebooks for QC
 ### Completed:
 ### Worked on:
+* Use Python Notebooks for QC
 * Research Spike: Quarterly Report
 ### Attended:
 * Analytics BI Lovelace - Hadoop 3.x migration
