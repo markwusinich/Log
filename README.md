@@ -9,14 +9,20 @@ Log of daily activities
 
 # June 10th 2020
 ### Carried Forward:
+* Research Spike: Quarterly Report
 #### Personal:
 * Contact Freedom Mortgage about loan processing (855-690-5900)
 * Get Titles for Cars
 * Contact MLH about claims and could they be recoded as Dr Visits
 ### Added:
+* Use Python Notebooks for QC
 ### Completed:
 ### Worked on:
+* Research Spike: Quarterly Report
 ### Attended:
+* Analytics BI Lovelace - Hadoop 3.x migration
+* DSU
+
 
 # June 9th, 2020 Tuesday
 ### Carried Forward:
@@ -26,6 +32,7 @@ Log of daily activities
 * Contact MLH about claims and could they be recoded as Dr Visits
 ### Added:
 * US262283 Monthly Migration to AH from Nav by PSU and Control
+* Research Spike: Quarterly Report
 ### Completed:
 * Learn about Parent Child Queues in Hadoop
 * Monitor Visit and PS_USAGE in real time
