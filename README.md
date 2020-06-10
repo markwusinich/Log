@@ -7,6 +7,17 @@ Log of daily activities
 ### Worked on:
 ### Attended:
 
+# June 10th 2020
+### Carried Forward:
+#### Personal:
+* Contact Freedom Mortgage about loan processing (855-690-5900)
+* Get Titles for Cars
+* Contact MLH about claims and could they be recoded as Dr Visits
+### Added:
+### Completed:
+### Worked on:
+### Attended:
+
 # June 9th, 2020 Tuesday
 ### Carried Forward:
 #### Personal:
@@ -20,6 +31,7 @@ Log of daily activities
 * Monitor Visit and PS_USAGE in real time
 * US262283 Monthly Migration to AH from Nav by PSU and Control
 * QC Production run of PS_USAGE/Visit
+* Code review visit
 #### Personal:
 * cut lawn; helped clean downstairs; 
 ### Worked on:
