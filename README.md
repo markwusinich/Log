@@ -16,12 +16,14 @@ Log of daily activities
 * Contact MLH about claims and could they be recoded as Dr Visits
 ### Added:
 ### Completed:
-* /Created backlog issue for moving logs to hadooop
+* Created backlog issue for moving logs to hadooop
+* created year_quarters dimension table
 ### Worked on:
 * Research Spike: Quarterly Report
 ### Attended:
 * DSU
 * Lucidchart 101: Lunch and Learn
+* Python office hours
 
 # June 10th 2020 Wednesday 
 ### Carried Forward:
