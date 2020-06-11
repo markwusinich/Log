@@ -7,7 +7,23 @@ Log of daily activities
 ### Worked on:
 ### Attended:
 
-# June 10th 2020
+# June 11th 2020 Thursday
+### Carried Forward:
+* Research Spike: Quarterly Report
+#### Personal:
+* Contact Freedom Mortgage about loan processing (855-690-5900)
+* Get Titles for Cars
+* Contact MLH about claims and could they be recoded as Dr Visits
+### Added:
+### Completed:
+* /Created backlog issue for moving logs to hadooop
+### Worked on:
+* Research Spike: Quarterly Report
+### Attended:
+* DSU
+* Lucidchart 101: Lunch and Learn
+
+# June 10th 2020 Wednesday 
 ### Carried Forward:
 * Research Spike: Quarterly Report
 #### Personal:
