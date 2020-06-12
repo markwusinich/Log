@@ -7,6 +7,21 @@ Log of daily activities
 ### Worked on:
 ### Attended:
 
+# June 12th 2020 Friday
+### Carried Forward:
+* Research Spike: Quarterly Report
+#### Personal:
+* Sign up for Freedom mortgage web site: freedommortgage.com loan#: 113239024
+* Get Titles for Cars
+* Contact MLH about claims and could they be recoded as Dr Visits
+### Added:
+### Completed:
+### Worked on:
+* Research Spike: Quarterly Report
+### Attended:
+* Rebecca's graduation Party
+* DSU
+
 # June 11th 2020 Thursday
 ### Carried Forward:
 * Research Spike: Quarterly Report
