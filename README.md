@@ -7,6 +7,18 @@ Log of daily activities
 ### Worked on:
 ### Attended:
 
+# June 19th, 2020 Friday
+### Carried Forward:
+* Research Spike: Quarterly Report
+### Added:
+### Completed:
+* Research Spike: Quarterly Report
+* Closed ticket for Adobe Move
+### Worked on:
+* Research Spike: Quarterly Report
+* Closed ticket for Adobe Move
+### Attended:
+
 # June 12th 2020 Friday
 ### Carried Forward:
 * Research Spike: Quarterly Report
